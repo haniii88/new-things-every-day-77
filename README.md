@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 77 */
+/* New Things Every Day — Day 77 */
 /* Generates a daily activity record with a random indicator */
 
 function dailyLog77() {
